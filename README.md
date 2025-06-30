@@ -1,5 +1,3 @@
----
-
 # 🧠 AI Agent Project
 
 This project is a modular and extensible AI agent powered by a local LLM (via [Ollama](https://ollama.com)) or OpenAI's API. You can choose which backend to use depending on your environment and preferences.
@@ -11,7 +9,6 @@ This project is a modular and extensible AI agent powered by a local LLM (via [O
 * 📄 Easy setup via `requirements.txt`
 * ⚙️ Switch between models with minimal changes
 
----
 
 ## 🛠️ Requirements
 
