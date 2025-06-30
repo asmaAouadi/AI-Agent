@@ -96,6 +96,6 @@ Pull requests and issues are welcome! Feel free to fork this repo and enhance th
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License](LICENSE.txt).
 
 ---
