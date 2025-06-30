@@ -22,7 +22,7 @@ def main():
         response = fast_agent.invoke({"messages": [HumanMessage(content=user_input)]})
         print(response["agent"]["messages"][0].content)
 
-        # Run slow agent in the background
+
         threading.Thread(target=run_slow_agent, args=(user_input,), daemon=True).start()
 
 if __name__ == "__main__":
